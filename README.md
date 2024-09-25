@@ -21,5 +21,7 @@ Para ejecutar el script, utiliza el siguiente comando en tu terminal:
 ```bash
 python infoFF.py -r REGION -id ID
 ```
-**-r** : Aquí va la región de la cuenta (ejemplo: US si es de EEUU, IND si es de la India, BR si es de Brasil, etc).
-**-id** : Aquí va el id de la cuenta.
+
+### Parámetros
+* **-r** : Aquí va la región de la cuenta (ejemplo: US si es de EEUU, IND si es de la India, BR si es de Brasil, etc).
+* **-id** : Aquí va el id de la cuenta.
